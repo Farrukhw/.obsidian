@@ -1,0 +1,41 @@
+/* Default style: "callout-style-icon-right" i.e. icon on the top right */
+body:not(.callout-style-original) .callout { position: relative; }
+body:not(.callout-style-original) .callout > .callout-title > .callout-icon { --icon-size: 25px;  position:relative; top: 1px; right: 18px; }
+
+
+
+.callout[data-callout="ar"] {        
+    direction: rtl;    
+    --callout-content-background: white:
+    text-align: right;
+} 
+
+/* .callout[data-callout="ar"] {
+    
+    --callout-color: var(--color-red-rgb);
+    --callout-icon: lucide-alert-triangle;
+    text-align: right;
+} */
+
+.callout[data-callout="ar"] .callout-title {
+    visibility: visible;    
+    direction: rtl;
+    text-align: right;
+    
+}
+
+.callout[data-callout="ar"] .callout-icon {
+    visibility: hidden;
+}
+
+.callout[data-callout="ar"] .callout-icon::before {
+    content: "اہم نوٹ";
+    padding-left: 5px; 
+    visibility: hidden;   
+}
+
+.callout[data-callout="ar"] .callout-fold {
+    visibility: hidden;
+    margin-right: auto;
+    margin-left: -110px;
+}

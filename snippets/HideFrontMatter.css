@@ -1,0 +1,47 @@
+div.is-live-preview span.cm-hmd-frontmatter { display: none; }
+/* .frontmatter-container {
+    display: none;
+} */
+/* div.is-live-preview span.frontmatter-container { display: none; } */
+
+
+
+
+/* Default style: "callout-style-icon-right" i.e. icon on the top right */
+body:not(.callout-style-original) .callout { position: relative; }
+body:not(.callout-style-original) .callout > .callout-title > .callout-icon { --icon-size: 20px;  position: absolute; top: 9px; right: 18px; }
+
+.callout[data-callout="urdu"] {
+    --callout-color: 0, 255, 255;
+    --callout-icon: <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-alarm-clock"><circle cx="12" cy="13" r="8"/><path d="M12 9v4l2 2"/><path d="M5 3 2 6"/><path d="m22 6-3-3"/><path d="M6.38 18.7 4 21"/><path d="M17.64 18.67 20 21"/></svg>;
+    --callout-icon-size: 16px;    
+    --callout-title-size: 20px;        
+}
+
+.callout[data-callout="custom-callout"] {
+    --callout-color: var(--color-red-rgb);
+    --callout-icon: lucide-alert-triangle;
+    
+    text-align: right;
+}
+
+.callout[data-callout="custom-callout"] .callout-title {
+    visibility: hidden;    
+    
+}
+
+.callout[data-callout="custom-callout"] .callout-icon {
+    visibility: visible;
+}
+
+
+.callout[data-callout="custom-callout"] .callout-icon::before {
+    content: "اہم نوٹ";
+    padding-left: 5px;    
+}
+
+.callout[data-callout="custom-callout"] .callout-fold {
+    visibility: visible;
+    margin-right: auto;
+    margin-left: -110px;
+}

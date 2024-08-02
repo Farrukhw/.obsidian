@@ -1,0 +1,101 @@
+@font-face {
+    font-family: 'Jameel';    
+    src: local('Jameel Noori Nastaleeq');
+    unicode-range: U+0600-06FF; 
+}
+
+body {    
+    
+    /* Making the Editor area wider or narrower */
+    /* --file-line-width: 1000px !important;    */
+
+    /* There are plugins like "Editor Width Slider" and "Custom Note Width"
+    which can give more flexibility related to Editor Area */
+    
+}
+
+.urdu_para {
+    --font-family: 'Jameel', 'Cambria', 'Calibri','Times';
+    font-size:25px;
+    --file-line-width: 1000px;    
+    --text_direction:rtl;
+    direction:rtl;
+    text-align: right;
+    
+    
+    word-spacing: 3px;
+
+    margin-top: 2px;
+    margin-bottom: 20px;
+    margin-right: 20px;
+    margin-left: 20px;
+    
+    
+}
+
+
+/* .markdown-source-view, .markdown-preview-view {
+    max-width: 1000px;
+    margin: auto;
+} */
+
+
+
+
+/* editor font */
+.markdown-source-view.mod-cm6.urdu_para .cm-scroller 
+{
+    font-family: var(--font-family);     
+}
+
+/* reading view font */
+.markdown-preview-view.urdu_para {
+    font-family: var(--font-family); 
+    
+}
+
+#error {
+    direction: var(--text_direction);
+    color: red;
+}
+
+#arabic {
+    font-family: 'Calibri';
+    text-align: right;
+    direction: var(--text_direction);
+}
+
+
+/* 
+    font-family: 'MonaSpace Krypton','Jameel Noori Nastaleeq'; 
+    #error {
+        color: red;
+    }
+
+    p, div {    
+        font-size:25px;
+    }
+
+    h1  {    
+        
+        
+    }
+
+
+#error {
+    color: red;
+}
+
+p[title*="para"] {
+    font-size: 35px;
+    color: magenta;
+} */
+
+/* p::first-letter {
+    font-size:80px;
+    color: rgb(144, 144, 6);
+
+} */
+
+
+ 
