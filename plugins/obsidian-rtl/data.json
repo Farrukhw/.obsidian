@@ -1,0 +1,12 @@
+{
+  "fileDirections": {
+    "DevOps/Databases/Microsoft SQL Server/Pull and run the SQL Server Linux container image.md": "auto",
+    "OS/SSH Setup and Enable Passwordless Login.md": "auto",
+    "Devs/Web/React/0-Basics/0-Basics.md": "auto"
+  },
+  "defaultDirection": "ltr",
+  "rememberPerFile": true,
+  "setNoteTitleDirection": true,
+  "setYamlDirection": false,
+  "statusBar": true
+}

@@ -1,0 +1,10 @@
+{
+  "menuCommands": [
+    {
+      "id": "obsidian-text-format:wrapper:a4d79de6-2157-4ea7-babc-de7613e1d48e",
+      "name": "Text Format: Wrapper - span arabic",
+      "icon": "text-cursor-input"
+    }
+  ],
+  "hideTitles": []
+}

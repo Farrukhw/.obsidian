@@ -1,0 +1,285 @@
+{
+  "TagSettings": [],
+  "GlobalTagSetting": {
+    "attributes": {},
+    "opened": false,
+    "enableList_": {}
+  },
+  "UseTagDetail": true,
+  "StoreTagDetailInYaml": "plugin",
+  "TagDetailData": {
+    "Devs/Scripting/Shell/Bash named parameters with default values.md": [],
+    "Devs/Scripting/Powershell/Get the list of Parameters and values passed to th.md": [],
+    "Statistics/3. Regression/1. Curve Fitting.md": [],
+    "Chrome Clippings.md": [],
+    "Data Science and Machine Learning/YouTube Scrapping Assignment/YouTube Scrapping..md": [],
+    "Statistics/1. Basics/1. Mean, Median, Mod. The measure of Central Tendency.md": [],
+    "OS/Linux/Zsh/Oh-my-zsh best plugins.md": [],
+    "DevOps/Jenkins/Jenkins Tips and Tricks/HTTP ERROR 403 No valid crumb was included in the request.md": [],
+    "Devs/Scripting/Shell/Shell Script Tips & Tricks/Untitled.md": []
+  },
+  "MetaFileTagDetails": {
+    "Devs/Scripting/Shell/Bash named parameters with default values.md": [],
+    "Devs/Scripting/Powershell/Get the list of Parameters and values passed to th.md": [],
+    "Templates/Blog.md": [
+      "#Blog-4-8-51"
+    ],
+    "Quickies/Untitled.md": [],
+    "Office/LMKR_Halliburton/DSPA/DSPA Agent Config.md": [
+      "#remoting-13-25-341",
+      "#remoting_jar-18-0-626",
+      "#jenkins_agent-18-14-640",
+      "#jenkinsagent-18-29-655"
+    ],
+    "DevOps/Docker/Docker Tips & Tricks/COPY failed file not found in build context or excluded by .dockerignore.md": [
+      "#COPY_failed-50-0-1310",
+      "#buildcontext-50-13-1323",
+      "#docker-50-27-1337",
+      "#dockerfile-50-35-1345",
+      "#build_context-50-47-1357",
+      "#dockerignore-50-62-1372"
+    ],
+    "OS/Linux/Linux Tips & Tricks/Convert windows line ending to Unix with sed..md": [
+      "39-0-1189",
+      "39-16-1205"
+    ],
+    "Mine/Perianal Abscess.md": [
+      "#medical-11-0-767",
+      "#perianal-11-9-776",
+      "#abscess-11-19-786",
+      "#anal-11-28-795",
+      "#anal_infection-11-34-801",
+      "11-50-817"
+    ],
+    "OS/How to SSH into WSL2 on Windows 10 from an external machine.md": [
+      "#ssh-155-0-9056",
+      "#ssh_wsl2-155-6-9062",
+      "#ssh_wsl-155-16-9072",
+      "#wsl-155-25-9081",
+      "#wsl_ssh-155-30-9086"
+    ],
+    "DevOps/Kubernetes certificate problem with Rancher Dekstop.md": [
+      "#rancher-14-0-254",
+      "#racher-desktop-14-9-263",
+      "#kubectl-14-25-279",
+      "#certifcate-14-34-288",
+      "#kubernetes_certificate-14-46-300"
+    ],
+    "DevOps/Databases/PostgresSQL/PostgreSQL Tips_Tricks/Cannot drop the currently open database.md": [
+      "#drop-24-0-634",
+      "#drop_db-24-6-640"
+    ],
+    "DevOps/Kubernetes/K8 Tips & Tricks/Extract Secret's Data.md": [
+      "#secret-13-23-136",
+      "#Data-13-42-155",
+      "#kubectl-33-63-801",
+      "#kubernetes-33-72-810",
+      "#secret-33-84-822",
+      "#kubectl_secret-33-92-830",
+      "#describe_secret-33-108-846",
+      "#describe-33-125-863"
+    ],
+    "DevOps/Jenkins/bat or sh with multiline script.md": [
+      "#gitlab-28-0-1037",
+      "#gitlabapi-28-8-1045",
+      "#gitlabapitoken-28-19-1056",
+      "#token-28-35-1072",
+      "#apitoken-28-42-1079"
+    ],
+    "DevOps/Jenkins/Commit and Push changes during build..md": [
+      "#Commit-50-0-1626",
+      "#push-50-8-1634",
+      "#gitpush-50-14-1640",
+      "#git_commit-50-23-1649",
+      "#git_push-50-35-1661",
+      "#jenkins_push-50-45-1671"
+    ],
+    "DevOps/Jenkins/Jenkins Tips and Tricks/Using Environment Variable to be modified by Shell Script.md": [
+      "#environment_variable-79-0-2603",
+      "#shellscript-79-22-2625"
+    ],
+    "Mine/Horoscope by name.md": [],
+    "Office/LMKR_Halliburton/DFS_DSPDM/DPCLI & helm.md": [
+      "#tiger_dspdm-dev-63-36-4705"
+    ],
+    "Devs/Web/Node.js/Node_ Tips & Tricks/WSL - Is it normal that the Angular-CLI is much sl.md": [
+      "#Sol-15-3-535"
+    ],
+    "DevOps/GIT/SSH with Tortoise Git.md": [
+      "#TortoiseGit-3-0-77",
+      "#PuTTY-3-18-95",
+      "#Git-3-106-183",
+      "#gitlab-3-132-209",
+      "#github-3-143-220",
+      "#ssh-5-77-312",
+      "#credentials-5-82-317"
+    ],
+    "DevOps/Jenkins/Credentials/SSH connection with git server.md": [],
+    "Devs/Regular Expressions/Examples_Samples/Jenkins Pipeline - Replace Version in AssemblyVersion.md": [
+      "#AssemblyVersion-0-4-4",
+      "#DotNet-0-39-39",
+      "#CSharp-0-68-68",
+      "#fileversion-0-117-117",
+      "#productversion-0-134-134",
+      "#AssemblyVersion-0-208-208",
+      "#AssemblyVersion-9-62-415"
+    ],
+    "Misc/Calibre Hierarchical Genre.md": [
+      "#Calibre-9-7-72",
+      "#Genre-9-21-86"
+    ],
+    "Devs/Web/Javascript/7 Falsey types in JS.md": [
+      "#falsey-0-4-4",
+      "#false-0-17-17"
+    ],
+    "Devs/Web/Javascript/Numbers.md": [
+      "#bigint-34-47-2086",
+      "#BigIntegers-45-5-2470",
+      "#FloatingPointNumbers-45-76-2541"
+    ],
+    "DevOps/Ansible/Basics.md": [
+      "54-0-1721",
+      "54-11-1732",
+      "54-26-1747",
+      "54-37-1758",
+      "54-50-1771"
+    ],
+    "DevOps/AWS/AWS + K8.md": [
+      "#apt-get-update-53-0-2447",
+      "#apt-transport-https-53-16-2463",
+      "#gnupg2-curl-53-37-2484",
+      "#google-packages-cloud-53-50-2497",
+      "#APT-key-add-53-73-2520",
+      "#setup-63-0-2709"
+    ],
+    "OS/Virtualization errors like make sure that virtualization is enabled.md": [
+      "#Bluestacks-13-30-132",
+      "#Nox-13-46-148",
+      "#Nox-24-23-804",
+      "#NOX-24-256-1037"
+    ],
+    "Multimedia/Starmaker settings.md": [],
+    "Networks/Subnetting Basic.md": [],
+    "Untitled 1.md": [],
+    "Untitled.md": [],
+    "DevOps/GIT/Git Extensions.md": [],
+    "Testings/Untitled.md": [],
+    "Statistics/2. Variance and Standard Deviations - The Measures of Dispersion.md": [],
+    "Devs/Python/Getting Averages of each column according to the data of one column.md": [
+      "#groupby-18-0-540",
+      "#mean-20-0-590",
+      "#numeric_only-20-6-596"
+    ],
+    "Statistics/3. Regression/1. Curve Fitting.md": [],
+    "Misc/MusicBee -Rename media files with their Title.md": [
+      "#MusicBee-10-3-89"
+    ],
+    "Misc/MusicBee/Synchronize with USB Or Portable Devices..md": [],
+    "Misc/MusicBee/MusicBee -Rename media files with their Title.md": [],
+    "Chrome Clippings.md": [],
+    "PolynomialFeatures — scikit-learn 1.5.0 documentation.md": [],
+    "Devs/Web/HTML/CSS/2. Most Basic CSS Selectors.md": [],
+    "Testings/ایک نیا نوٹ.md": [],
+    "Testings/Urdu Tests.md": [],
+    "Data Science and Machine Learning/EDA/Cleaning the data.md": [],
+    "Misc/VSCode -IntelliCode problem with Python.md": [],
+    "Data Science and Machine Learning/YouTube Scrapping Assignment/YouTube Scrapping..md": [],
+    "Misc/WIFI Internet Sharing over the Ethernet.md": [],
+    "Statistics/1. Basics/1. Mean, Median, Mod. The measure of Central Tendency.md": [
+      "53-37-1599",
+      "53-57-1619"
+    ],
+    "OS/Linux/Zsh/Oh-my-zsh best plugins.md": [
+      "#autocomplete-81-40-2645"
+    ],
+    "Learning/Docker/Deploy your app to the cloud/Deploying Docker containers on Azure.md": [
+      "#Docker-0-0-0"
+    ],
+    "Testings/اردو.md": [
+      "#setup-50-0-911"
+    ],
+    "Testings/selections.md": [
+      "0-28-28",
+      "0-94-94",
+      "0-144-144",
+      "2-31-235",
+      "2-47-251",
+      "2-55-259",
+      "6-303-587",
+      "6-381-665",
+      "6-441-725",
+      "6-491-775",
+      "6-557-841",
+      "6-617-901",
+      "6-667-951",
+      "6-723-1007",
+      "6-781-1065",
+      "6-837-1121",
+      "6-889-1173"
+    ],
+    "Devs/Web/Node.js/Node_ Tips & Tricks/Restart web app upon changes.md": [
+      "#nodemon-51-0-1386",
+      "#devDependencies-51-9-1395",
+      "#dependencies-51-26-1412"
+    ],
+    "Mine/Islamic/نظر سے بچنے اور حافظہ تیز کرنے کے وظائف.md": [],
+    "DevOps/AWS/AWS   K8.md": [
+      "53-0-2448",
+      "53-16-2464",
+      "53-37-2485",
+      "53-50-2498",
+      "53-73-2521",
+      "63-0-2710"
+    ],
+    "DevOps/0 - To Dos.md": [],
+    "DevOps/Jenkins/Jenkins Tips and Tricks/HTTP ERROR 403 No valid crumb was included in the request.md": [
+      "#FireFox-3-102-116",
+      "#Brave-3-150-164",
+      "#Firefox-3-191-205"
+    ],
+    "Devs/Scripting/Shell/Bash Cheat Sheet.md": [
+      "#Shebang-15-81-682"
+    ],
+    "Devs/Scripting/Shell/Shell Script Tips & Tricks/Untitled.md": [
+      "28-0-1510"
+    ],
+    "Clippings/Bash Parameter Expansion with Cheat Sheet.md": [
+      "31-12-1720",
+      "31-142-1850",
+      "31-183-1891",
+      "171-2-7828",
+      "171-134-7960",
+      "171-178-8004",
+      "171-258-8084",
+      "174-2-8256",
+      "174-219-8473",
+      "174-314-8568",
+      "174-443-8697",
+      "176-2-8828",
+      "176-232-9058",
+      "176-466-9292",
+      "176-568-9394",
+      "176-666-9492",
+      "176-813-9639"
+    ],
+    "Testings/Test Blog.md": [
+      "4-8-53"
+    ],
+    "OS/SSH Setup and Enable Passwordless Login.md": [
+      "#ssh_user-116-0-4416"
+    ],
+    "Learning/Docker/Run your app in production/Configure the daemon/Configure and troubleshoot the Docker daemon.md": [
+      "#Docker-5-0-36"
+    ],
+    "DevOps/Kubernetes/Kubernetes certificate problem with Rancher Dekstop.md": [
+      "14-0-274",
+      "14-9-283",
+      "14-25-299",
+      "14-34-308",
+      "14-46-320"
+    ],
+    "DevOps/Docker/Rancher Desktop login problem in WSL2.md": [
+      "#Rancher-0-5-5"
+    ]
+  }
+}

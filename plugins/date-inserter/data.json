@@ -1,0 +1,15 @@
+{
+  "format": "dd MM yyyy",
+  "language": "en",
+  "weekStart": 0,
+  "todayHighlight": true,
+  "daysOfWeekHighlighted": {
+    "sun": 0,
+    "mon": 1,
+    "tue": 2,
+    "wed": 3,
+    "thu": 4,
+    "fri": 5,
+    "sat": 6
+  }
+}

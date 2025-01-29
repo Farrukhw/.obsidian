@@ -1,0 +1,10 @@
+{
+	"id": "source-code-note",
+	"name": "Source Code Note",
+	"version": "1.0.0",
+	"minAppVersion": "1.0.0",
+	"description": "This plugin can help you organize source code note easily.",
+	"author": "Waiting",
+	"authorUrl": "https://github.com/waiting0324",
+	"isDesktopOnly": false
+}

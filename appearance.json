@@ -1,0 +1,17 @@
+{
+  "accentColor": "",
+  "nativeMenus": true,
+  "baseFontSize": 22,
+  "monospaceFontFamily": "Courier New",
+  "enabledCssSnippets": [
+    "mysnippet",
+    "heads ",
+    "htmlCallouts",
+    "custom-admonitions.e842c5",
+    "CustomIcon-AutoGen"
+  ],
+  "theme": "system",
+  "interfaceFontFamily": "",
+  "baseFontSizeAction": true,
+  "cssTheme": ""
+}

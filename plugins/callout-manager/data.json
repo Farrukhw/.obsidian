@@ -1,0 +1,56 @@
+{
+  "callouts": {
+    "custom": [],
+    "settings": {
+      "bug": [
+        {
+          "changes": {
+            "icon": "lucide-bug"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {
+            "color": "233, 151, 63"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "251, 70, 76"
+          }
+        }
+      ],
+      "important": [
+        {
+          "changes": {
+            "icon": "lucide-anchor"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {}
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "251, 70, 76"
+          }
+        }
+      ]
+    }
+  },
+  "calloutDetection": {
+    "obsidian": true,
+    "theme": true,
+    "snippet": true
+  }
+}

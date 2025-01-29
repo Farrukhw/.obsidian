@@ -1,0 +1,23 @@
+{
+  "livePreview": true,
+  "attachmentFolderPath": "_resources",
+  "showFrontmatter": false,
+  "showLineNumber": true,
+  "spellcheck": true,
+  "legacyEditor": false,
+  "alwaysUpdateLinks": true,
+  "promptDelete": false,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "2",
+    "downscalePercent": 100
+  },
+  "useMarkdownLinks": true,
+  "propertiesInDocument": "hidden",
+  "showUnsupportedFiles": true,
+  "rightToLeft": false,
+  "readableLineLength": true,
+  "strictLineBreaks": true
+}

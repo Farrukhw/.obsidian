@@ -1,0 +1,23 @@
+{
+  "groups": [
+    {
+      "name": "DevOps",
+      "snippets": [],
+      "active": false,
+      "themeLinked": "",
+      "colorScheme": "both",
+      "support": "both"
+    },
+    {
+      "name": "Dot Net",
+      "snippets": [],
+      "active": false,
+      "themeLinked": "",
+      "colorScheme": "both",
+      "support": "both"
+    }
+  ],
+  "enabledTheme": "Minimal",
+  "isDarkTheme": false,
+  "log": "none"
+}

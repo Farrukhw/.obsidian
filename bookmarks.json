@@ -1,0 +1,124 @@
+{
+  "items": [
+    {
+      "type": "group",
+      "ctime": 1715412286848,
+      "items": [
+        {
+          "type": "folder",
+          "ctime": 1715412254124,
+          "path": "Data Science and Machine Learning",
+          "title": "DL and ML with Dice Analytics"
+        },
+        {
+          "type": "file",
+          "ctime": 1717151821126,
+          "path": "Statistics/2. Probability/2. Probability.md",
+          "subpath": "#Conditional Probability"
+        }
+      ],
+      "title": "Learn"
+    },
+    {
+      "type": "file",
+      "path": "DevOps/Docker/Docker Tips & Tricks/Add a new sudo or root user.md",
+      "ctime": 1684133129782
+    },
+    {
+      "type": "file",
+      "path": "DevOps/Docker/Docker Tips & Tricks/docker login to private registry.md",
+      "ctime": 1684133129782
+    },
+    {
+      "type": "file",
+      "path": "DevOps/Databases/Microsoft SQL Server/Pull and run the SQL Server Linux container image.md",
+      "ctime": 1684133129782
+    },
+    {
+      "type": "file",
+      "path": "DevOps/Kubernetes/K8 Tips & Tricks/Export or Backup K8 resources.md",
+      "ctime": 1684133129782
+    },
+    {
+      "type": "file",
+      "path": "DevOps/Kubernetes/K8 Tips & Tricks/To Get a Shell to a Running Container in the pod.md",
+      "ctime": 1684133129782
+    },
+    {
+      "type": "search",
+      "title": "tag:#variable",
+      "query": "tag:#variable",
+      "ctime": 1684133129782
+    },
+    {
+      "type": "file",
+      "path": "OS/Linux/Linux Tips & Tricks/Convert windows line ending to Unix with sed..md",
+      "ctime": 1684133129782
+    },
+    {
+      "type": "file",
+      "path": "DevOps/Docker/Rancher Desktop Docker Permission Denied.md",
+      "ctime": 1684133129782
+    },
+    {
+      "type": "file",
+      "path": "OS/SSH Setup and Enable Passwordless Login.md",
+      "ctime": 1684133129782
+    },
+    {
+      "type": "file",
+      "path": "OS/Linux/sed tricks.md",
+      "ctime": 1684133129782
+    },
+    {
+      "type": "file",
+      "path": "DevOps/Jenkins/Commit and Push changes during build..md",
+      "ctime": 1684133129782
+    },
+    {
+      "type": "file",
+      "path": "DevOps/Jenkins/Jenkins Tips and Tricks/Using Environment Variable to be modified by Shell Script.md",
+      "ctime": 1684133129782
+    },
+    {
+      "type": "file",
+      "path": "Devs/Scripting/Powershell/IIS, Modify protocol to Site's EnabledProtocol.md",
+      "ctime": 1684133129782
+    },
+    {
+      "type": "group",
+      "ctime": 1684467310194,
+      "items": [
+        {
+          "type": "file",
+          "path": "Office/LMKR_Halliburton/DFS_DSPDM/PDM DB Initialization via Tiger.md",
+          "ctime": 1684133129782
+        },
+        {
+          "type": "file",
+          "path": "Office/LMKR_Halliburton/DFS_DSPDM/DPCLI & helm.md",
+          "ctime": 1684133129782
+        }
+      ],
+      "title": "Office"
+    },
+    {
+      "type": "group",
+      "ctime": 1689798000226,
+      "items": [
+        {
+          "type": "file",
+          "path": "DevOps/Docker/Docker Tips & Tricks/ssh as root into a container.md",
+          "ctime": 1684133129782
+        },
+        {
+          "type": "file",
+          "ctime": 1689797964084,
+          "path": "DevOps/Jenkins/Credentials/known_hosts problem with SSH Keys with git server.md",
+          "title": "known_hosts and ssh keys with git server"
+        }
+      ],
+      "title": "SSH"
+    }
+  ]
+}
