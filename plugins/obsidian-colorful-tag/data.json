@@ -280,6 +280,13 @@
     ],
     "DevOps/Docker/Rancher Desktop login problem in WSL2.md": [
       "#Rancher-0-5-5"
+    ],
+    "DevOps/Databases/Microsoft SQL Server/Executing multiple .sql files in Bash.md": [
+      "#sqlcmd-0-88-88",
+      "0-109-109"
+    ],
+    "DevOps/Kubernetes/Accessing the application Deployed.md": [
+      "#LoadBalancer-0-38-38"
     ]
   }
 }

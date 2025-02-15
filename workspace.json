@@ -4,26 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "3941a315672c9a1b",
+        "id": "5077a866c5c470a8",
         "type": "tabs",
         "children": [
           {
-            "id": "bb729177eaa36d7a",
+            "id": "92f342f5860abadc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DevOps/Kubernetes/K8 Tips & Tricks/Port forwarding.md",
+                "file": "DevOps/Kubernetes/Kubernetes Components.md",
                 "mode": "source",
-                "backlinks": false,
-                "source": false
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Port forwarding"
+              "title": "Kubernetes Components"
             }
           }
-        ],
-        "stacked": true
+        ]
       }
     ],
     "direction": "vertical"
@@ -42,7 +41,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -77,7 +77,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "sqlfiles",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,7 +89,7 @@
             }
           },
           {
-            "id": "0660fc49d7734f36",
+            "id": "6b73375ab8b3faae",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -98,11 +98,12 @@
               "title": "Navigator"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 229.5
+    "width": 442.5
   },
   "right": {
     "id": "5dde03d0ef68a8f0",
@@ -130,6 +131,16 @@
               "state": {},
               "icon": "spreadsheet",
               "title": "Advanced Tables"
+            }
+          },
+          {
+            "id": "f9a3a3bf16800129",
+            "type": "leaf",
+            "state": {
+              "type": "side-panel-control-view",
+              "state": {},
+              "icon": "viewIcon",
+              "title": "Markdown-Autocomplete"
             }
           },
           {
@@ -240,21 +251,21 @@
             }
           },
           {
-            "id": "6fb384108dc3d66c",
+            "id": "010dfa57621e2686",
             "type": "leaf",
             "state": {
-              "type": "side-panel-control-view",
+              "type": "pieces-plugin-view",
               "state": {},
-              "icon": "viewIcon",
-              "title": "Markdown-Autocomplete"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 12
       }
     ],
     "direction": "horizontal",
-    "width": 515.5,
+    "width": 728.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -273,7 +284,6 @@
       "open-vscode:VSCode": false,
       "gpt3-notes:GPT-3 Notes": false,
       "janitor:Janitor: scan vault": false,
-      "pieces-for-developers:Pieces For Developers": false,
       "source-code-note:Show Resource Code View": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
@@ -285,41 +295,45 @@
       "omnisearch:Omnisearch": false,
       "card-note:Search Notes": false,
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
-      "handwritten-notes:Create empty handwritten note": false,
-      "card-board:CardBoard": false
+      "handwritten-notes:Create empty handwritten note": false
     }
   },
-  "active": "bb729177eaa36d7a",
+  "active": "92f342f5860abadc",
   "lastOpenFiles": [
-    "DevOps/Kubernetes/K8 Tips & Tricks/Kubernetes certificate problem with Rancher Dekstop.md",
-    "DevOps/Installers/Example Codes.md",
-    "DevOps/DeepSeek/DevOps Career advice in 2025.md",
-    "DevOps/Docker/Docker Tips & Tricks/COPY failed file not found in build context or excluded by .dockerignore.md",
-    "DevOps/Docker/Docker Tips & Tricks/Add a new sudo or root user.md",
-    "DevOps/DeepSeek/DevOps with AWS and GC.md",
-    "DevOps/DeepSeek",
-    "DevOps/Kubernetes/Working with multiple containers.md",
-    "DevOps/Kubernetes/K8 Networking.md",
-    "DevOps/Kubernetes/K8 Tips & Tricks/Single container POD.md",
-    "DevOps/Kubernetes/K8 Tips & Tricks/Rancher Desktop_ WSL integration not working.md",
-    "DevOps/Kubernetes/K8 Tips & Tricks/Port forwarding.md",
-    "DevOps/Kubernetes/KinD_ Kubernetes made easy in a container.md",
-    "DevOps/Kubernetes/Kubernetes Components.md",
+    "DevOps/Kubernetes/Accessing the application Deployed.md",
+    "DevOps/Kubernetes/Exposing a Deployment with a Service.md",
+    "DevOps/Databases/Microsoft SQL Server/Executing multiple .sql files in Bash.md",
+    "DevOps/Databases/Microsoft SQL Server/MS SQL Server Tips_Tricks/SQL script_ including the path of another SQL Scri.md",
+    "Devs/Scripting/Shell/Shell Script Tips & Tricks/Convert Windows_Dos line endings i.e. CR_LF to Uni.md",
+    "OS/Linux/Linux Tips & Tricks/Convert windows line ending to Unix with sed..md",
     "DevOps/Kubernetes/etcd.md",
-    "DevOps/Kubernetes/Docs",
-    "DevOps/Kubernetes/Docs.md",
-    "Tags/#clippings",
-    "Multimedia/Starmaker settings.md",
     "DevOps/Kubernetes/0-Basics.md",
-    "ToDo/To Do.md",
-    "DevOps/Kubernetes/K8 Tools.md",
-    "DevOps/Kubernetes/Volume Mounts.md",
+    "DevOps/Kubernetes/Working with multiple containers.md",
     "DevOps/Kubernetes/To Learn.md",
-    "DevOps/Docker/Rancher Desktop login problem in WSL2.md",
-    "Learning/Docker/Run your app in production/Configure containers/Extend Docker/Use Docker Engine plugins🔗.md",
-    "DevOps/Docker/Docker Tips & Tricks/Docker_host environment variable can cause problem.md",
-    "DevOps/Docker/Rancher Desktop Docker Permission Denied.md",
-    "DevOps/WSL/Data folders on WSL __wsl$.md",
+    "DevOps/Kubernetes/KinD_ Kubernetes made easy in a container.md",
+    "DevOps/Docker/DNS names in Docker Network.md",
+    "Testings/Untitled.md",
+    "Devs/JAVA/JavaFX/Create an executable Jar with Maven.md",
+    "DevOps/Docker/Docker Tips & Tricks/Build checks.md",
+    "Tags/#excalidraw",
+    "DevOps/Kubernetes/Drawing 2025-02-10 09.26.53.excalidraw.md",
+    "DevOps/Kubernetes/Issue creating deployment with a local image.md",
+    "_resources/Pasted image 20250208113847.png",
+    "_resources/Pasted image 20250208113825.png",
+    "_resources/Pasted image 20250208113804.png",
+    "_resources/Pasted image 20250208113322.png",
+    "DevOps/Kubernetes/Volume Mounts.md",
+    "DevOps/Kubernetes/K8 Networking.md",
+    "DevOps/Kubernetes/Kubernetes Components.md",
+    "Office/OnPrimise PDM only Deployment.md",
+    "Testings/Excalidraw/Drawing 2024-04-05 08.33.07.excalidraw.md",
+    "DevOps/DeepSeek/DevOps with AWS and GC.md",
+    "DevOps/DeepSeek/DevOps Career advice in 2025.md",
+    "Office/LMKR_Halliburton/DFS_DSPDM/To DOs.md",
+    "DevOps/Kubernetes/K8 Tips & Tricks/Port forwarding.md",
+    "DevOps/DeepSeek",
+    "DevOps/Kubernetes/Docs",
+    "Tags/#clippings",
     "piecesdb.json",
     "handwritten-notes/New note.pdf",
     "handwritten-notes",
@@ -329,15 +343,10 @@
     "Clippings",
     "_resources/Pasted image 20250106182256.png",
     "DevOps/Jenkins/Pipeline/Pipeline Basics.md.crswap",
-    "DevOps/Jenkins/Pipeline",
     "Excalidraw/Scripts/Downloaded/Fixed spacing.svg",
     "Excalidraw/Scripts/Downloaded/Fixed inner distance.svg",
     "_resources/Pasted image 20241107134250.png",
     "_resources/Pasted image 20241107134135.png",
-    "_resources/Pasted image 20241104194308.png",
-    "_resources/Pasted image 20241104194050.png",
-    "_resources/Pasted image 20241024024340.png",
-    "Drawing 2024-08-28 04.25.53.excalidraw.svg",
     "Testings/Untitled.canvas",
     "Untitled 1.canvas",
     "Testings/Untitled 1.canvas",

@@ -68,7 +68,6 @@
   "janitor",
   "obsidian-rtl",
   "obsidian-core-search-assistant-plugin",
-  "pieces-for-developers",
   "obsidian-paper-cut",
   "obsidian-latex-suite",
   "mysnippets-plugin",
@@ -132,5 +131,6 @@
   "iconic",
   "slash-commander",
   "make-md",
-  "custom-sidebar-icons"
+  "custom-sidebar-icons",
+  "pieces-for-developers"
 ]
