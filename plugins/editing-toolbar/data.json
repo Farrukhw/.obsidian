@@ -299,5 +299,5 @@
   "custom_fc3": "#245BDB",
   "custom_fc4": "#6425D0",
   "custom_fc5": "#646A73",
-  "isLoadOnMobile": false
+  "isLoadOnMobile": true
 }

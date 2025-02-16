@@ -5,16 +5,16 @@
     "fontSize": 16,
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasLightbulb",
+      "SiCoffeescript",
+      "SiCsharp",
+      "SiGo",
+      "LiRegex",
+      "SiPythonWhite",
+      "FasBookOpen",
       "MyDeepSeekFavicon.ico",
       "LiHand",
-      "LiBug",
-      "IbGraphLineDown",
-      "RiSystemNotificationBadgeLine",
-      "FasNetworkWired",
-      "SoAndroidColor",
-      "RiAndroidLine",
-      "SiMicrosoftacademic",
-      "SiLMKRLogo120x90"
+      "LiBug"
     ],
     "recentlyUsedIconsSize": 10,
     "rules": [],
@@ -77,7 +77,6 @@
   "Devs/Scripting/Powershell": "🔡",
   "Devs/Scripting/Shell": "🐚",
   "Devs/JAVA": "FabJava",
-  "Data Science and Machine Learning": "🕸",
   "Misc": "SiMicrosoftacademic",
   "Androids": "SoAndroidColor",
   "Networks": "FasNetworkWired",
@@ -86,5 +85,13 @@
   "Misc/MusicBee/Bugs/0-Bug - Preserve Folders and Filenames on target device..md": "LiBug",
   "Misc/MusicBee/Bugs/0-Workaround - Sync and replicate the folder and files structure on target device..md": "LiHand",
   "Misc/MusicBee/Bugs/Fixed/1-Bug - Device Settings always Prefixing some paths with predefined strings..md": "LiBug",
-  "DevOps/DeepSeek": "MyDeepSeekFavicon.ico"
+  "DevOps/DeepSeek": "MyDeepSeekFavicon.ico",
+  "DevOps/Docker/Learning": "FasBookOpen",
+  "Devs/Python": "SiPythonWhite",
+  "Devs/Regular Expressions": "LiRegex",
+  "Devs/Go Lang": "SiGo",
+  "Devs/CSharp": "SiCsharp",
+  "Devs/Scripting": "SiCoffeescript",
+  "Devs/Tips & Tricks": "FasLightbulb",
+  "Devs/Data Science and Machine Learning": "🕸"
 }
