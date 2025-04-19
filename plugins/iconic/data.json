@@ -21,11 +21,37 @@
   },
   "appIcons": {},
   "tabIcons": {},
-  "fileIcons": {},
+  "fileIcons": {
+    "Devs/AI": {
+      "icon": "mermaidBlock",
+      "unsynced": [
+        "4cebb3f9871d489f"
+      ]
+    },
+    "Multimedia": {
+      "icon": "lucide-file-music",
+      "unsynced": [
+        "4cebb3f9871d489f"
+      ]
+    }
+  },
   "bookmarkIcons": {},
   "tagIcons": {},
   "propertyIcons": {},
   "ribbonIcons": {},
-  "fileRules": [],
+  "fileRules": [
+    {
+      "id": "az1We",
+      "name": "Untitled rule",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "name",
+          "operator": "contains"
+        }
+      ],
+      "enabled": true
+    }
+  ],
   "folderRules": []
 }

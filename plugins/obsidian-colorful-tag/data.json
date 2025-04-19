@@ -125,8 +125,8 @@
       "#AssemblyVersion-9-62-415"
     ],
     "Misc/Calibre Hierarchical Genre.md": [
-      "#Calibre-9-7-72",
-      "#Genre-9-21-86"
+      "#Calibre-9-7-81",
+      "#Genre-9-21-95"
     ],
     "Devs/Web/Javascript/7 Falsey types in JS.md": [
       "#falsey-0-4-4",
@@ -287,6 +287,20 @@
     ],
     "DevOps/Kubernetes/Accessing the application Deployed.md": [
       "#LoadBalancer-0-38-38"
+    ],
+    "Devs/Python/0. Quick Notes/Importing.md": [],
+    "Misc/Virtual Cam/Virtual WebCams.md": [
+      "#YouCam-0-1-1"
+    ],
+    "Devs/AI/Tips & Tricks.md": [
+      "#jupyter-9-0-198",
+      "#password-9-9-207",
+      "#jupyter_server-9-19-217"
+    ],
+    "Devs/AI/LLM Engineering/Frontiers.md": [],
+    "Devs/AI/LLM Engineering/Tokens.md": [],
+    "Devs/AI/LLM Engineering/_ToDo.md": [
+      "#ToDo-0-0-0"
     ]
   }
 }

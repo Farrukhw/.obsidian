@@ -86,6 +86,7 @@
   "firstLaunch": true,
   "notesPreview": false,
   "editStickerInSidebar": true,
+  "overrideNativeMenu": false,
   "flowMenuEnabled": true,
   "markSans": false,
   "makeMenuPlaceholder": true,

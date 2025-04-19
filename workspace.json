@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "5077a866c5c470a8",
+        "id": "75fac83efbbff7f1",
         "type": "tabs",
         "children": [
           {
-            "id": "92f342f5860abadc",
+            "id": "a1a99ede773ba47a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Misc/LiberKey use PortableApps applications.md",
-                "mode": "preview",
+                "file": "Devs/AI/Data Science and Machine Learning/Lecture 3 - 11 May, 2024/Measures.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "LiberKey use PortableApps applications"
+              "title": "Measures"
             }
           }
         ]
@@ -36,16 +36,45 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bb67ab8e9cceb22c",
+            "id": "d42678d7d5a99e1a",
             "type": "leaf",
             "state": {
-              "type": "file-explorer",
+              "type": "search",
+              "state": {
+                "query": "2020250414010901.png",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "a16ff9b339ebc3db",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Navigator"
+            }
+          },
+          {
+            "id": "9a144fe7b6f1898a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "useHierarchy": true,
+                "showSearch": true,
+                "searchQuery": "obs"
               },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -59,50 +88,24 @@
             }
           },
           {
-            "id": "9a144fe7b6f1898a",
+            "id": "bb67ab8e9cceb22c",
             "type": "leaf",
             "state": {
-              "type": "tag",
+              "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "useHierarchy": true
+                "autoReveal": true
               },
-              "icon": "lucide-tags",
-              "title": "Tags"
-            }
-          },
-          {
-            "id": "d42678d7d5a99e1a",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "data folders",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-search",
-              "title": "Search"
-            }
-          },
-          {
-            "id": "9a8a07c0525642ab",
-            "type": "leaf",
-            "state": {
-              "type": "mk-path-view",
-              "state": {},
-              "icon": "layout-grid",
-              "title": "Navigator"
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 442.5
+    "width": 360.5
   },
   "right": {
     "id": "5dde03d0ef68a8f0",
@@ -133,16 +136,6 @@
             }
           },
           {
-            "id": "f9a3a3bf16800129",
-            "type": "leaf",
-            "state": {
-              "type": "side-panel-control-view",
-              "state": {},
-              "icon": "viewIcon",
-              "title": "Markdown-Autocomplete"
-            }
-          },
-          {
             "id": "12da14551cf7a7c2",
             "type": "leaf",
             "state": {
@@ -153,15 +146,13 @@
             }
           },
           {
-            "id": "d7d54033d673c465",
+            "id": "c2457cefc20eb403",
             "type": "leaf",
             "state": {
-              "type": "file-properties",
-              "state": {
-                "file": "DevOps/DeepSeek/DevOps Career advice in 2025.md"
-              },
-              "icon": "lucide-info",
-              "title": "File properties for DevOps Career advice in 2025"
+              "type": "side-panel-control-view",
+              "state": {},
+              "icon": "viewIcon",
+              "title": "Markdown-Autocomplete"
             }
           },
           {
@@ -196,6 +187,16 @@
             }
           },
           {
+            "id": "c9e86c10eeeb35ae",
+            "type": "leaf",
+            "state": {
+              "type": "QUICKSHARE_SIDE_VIEW",
+              "state": {},
+              "icon": "cloud",
+              "title": "QuickShare"
+            }
+          },
+          {
             "id": "66b6b81b1414d014",
             "type": "leaf",
             "state": {
@@ -210,6 +211,18 @@
             }
           },
           {
+            "id": "d7d54033d673c465",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Devs/Python/0. Quick Notes/Classes/Importing classes from modules.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for Importing classes from modules"
+            }
+          },
+          {
             "id": "b6dc1ea832146606",
             "type": "leaf",
             "state": {
@@ -217,16 +230,6 @@
               "state": {},
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
-            }
-          },
-          {
-            "id": "c9e86c10eeeb35ae",
-            "type": "leaf",
-            "state": {
-              "type": "QUICKSHARE_SIDE_VIEW",
-              "state": {},
-              "icon": "cloud",
-              "title": "QuickShare"
             }
           },
           {
@@ -250,11 +253,12 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 301.5
+    "width": 474.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -274,7 +278,6 @@
       "janitor:Janitor: scan vault": false,
       "source-code-note:Show Resource Code View": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "canvas:Create new canvas": false,
       "templater-obsidian:Templater": false,
       "templates:Insert template": false,
@@ -284,58 +287,61 @@
       "card-note:Search Notes": false,
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
       "handwritten-notes:Create empty handwritten note": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "pieces-for-developers:Pieces for Developers": false,
       "card-board:CardBoard": false
     }
   },
-  "active": "92f342f5860abadc",
+  "active": "a1a99ede773ba47a",
   "lastOpenFiles": [
-    "Misc/WIFI Internet Sharing over the Ethernet.md",
-    "Misc/Retain PDF Zoom levels.md",
-    "Devs/0. To Do_.md",
-    "Devs/Code blocks.md",
-    "Excalidraw/Drawing 2025-01-11 13.24.24.excalidraw.md",
-    "Devs/Devs.md",
-    "Excalidraw/Drawing 2025-01-05 08.13.43.excalidraw.md",
-    "Excalidraw/Scripts/Downloaded/Fixed spacing.md",
-    "Devs/Data Science and Machine Learning/Lecture 5 - 25 May, 2024/Probability/Probability Trees.md",
-    "Devs/Data Science and Machine Learning/Lecture 5 - 25 May, 2024/Probability/Probability Basics.md",
-    "Devs/Data Science and Machine Learning/Lecture 5 - 25 May, 2024/Machine Learning/Supervised Learning.md",
-    "Devs/Data Science and Machine Learning/EDA/Cleaning the data.md",
-    "DevOps/GIT/General Gits.md",
-    "Devs/Tips & Tricks/VSCode/VSCode in WSL failing with Exec format error.md",
-    "Devs/JavaScript/JavaScript.md",
-    "Devs/Tips & Tricks/VSCode/VSCode Terminal Font.md",
-    "Devs/Web/HTML/Advanced text formatting.md",
-    "Devs/Tips & Tricks/MS Word_ Print each page to separate PDF.md",
-    "Devs/Tips & Tricks",
-    "Devs/Web/HTML/Tips & Tricks.md",
-    "Devs/Tips & Tricks/VSCode/1. Visual Studio Code Shortcuts.md",
-    "Devs/General Purpose/Unit Test vs. Integration Test/Unit Test vs. Integration TestUntitled.md",
-    "Devs/General Purpose/Unit Test vs. Integration Test/Unit Test vs. Integration Test A Summary.md",
-    "Devs/General Purpose/Unit Test vs. Integration Test/Integration Test.md",
-    "Devs/General Purpose/Unit Test vs. Integration Test/Defining Unit Testing.md",
-    "Devs/General Purpose/Unit Test vs. Integration Test/Why Is Isolation Good for Unit Tests..md",
-    "Devs/General Purpose/Simplicity - The Finer Art of Creating Software/Clean Code Principles.md",
-    "DevOps/Docker/Learning",
-    "Tags/#excalidraw",
-    "_resources/Pasted image 20250208113847.png",
-    "_resources/Pasted image 20250208113825.png",
-    "_resources/Pasted image 20250208113804.png",
-    "_resources/Pasted image 20250208113322.png",
-    "DevOps/DeepSeek",
-    "DevOps/Kubernetes/Docs",
-    "Tags/#clippings",
+    "Devs/AI/Data Science and Machine Learning/Lecture 3 - 11 May, 2024/Visualizing Mixed.md",
+    "Devs/AI/Data Science and Machine Learning/Lecture 3 - 11 May, 2024/Visualizing Categorical.md",
+    "Devs/AI/Data Science and Machine Learning/Lecture 3 - 11 May, 2024/Measures.md",
+    "Devs/AI/Data Science and Machine Learning/Lecture 3 - 11 May, 2024/Data Transformations.md",
+    "Devs/AI/Data Science and Machine Learning/Lecture 3 - 11 May, 2024/Data Organization.md",
+    "Devs/AI/Data Science and Machine Learning/Lecture 7 - 8th June, 2024/Logistic Regression.md",
+    "Devs/AI/Data Science and Machine Learning/YouTube Scrapping Assignment/YouTube Scrapping.md",
+    "Devs/AI/Data Science and Machine Learning/Lecture 3 - 11 May, 2024/_resources/Pasted image 20250418165730.png",
+    "Devs/AI/Data Science and Machine Learning/Lecture 3 - 11 May, 2024/_resources",
+    "Devs/AI/LLM Engineering/Tokenization/1 - Tokens.md",
+    "Devs/AI/LLM Engineering/Tokenization/2 - Context Window.md",
+    "Devs/AI/LLM Engineering/3 ways to use models.md",
+    "Devs/AI/Tips & Tricks.md",
+    "Devs/AI/LLM Engineering/Frontiers.md",
+    "Devs/AI/LLM Engineering/Parameters or weights in models.md",
+    "Devs/AI/LLM Engineering/Prompts.md",
+    "Multimedia/Shotcut/Best chroma key settings.md",
+    "Devs/AI/LLM Engineering/Tokenization/_resources/Pasted image 20250414011939.png",
+    "Devs/AI/LLM Engineering/Tokenization/_resources/Pasted image 20250414011339.png",
+    "Devs/AI/LLM Engineering/Tokenization/_resources",
+    "Multimedia/Starmaker settings.md",
+    "ToDo/To Do.md",
+    "_resources/04aa60c2667dbf27ea2131814dd6d75c.png",
+    "_resources/1cf2c6802319c1e37ecff90eca319b6f.png",
+    "_resources/1c3b2a1eaeead26933b4b99357801cb9.png",
+    "_resources/1a100580dc611a0bffc139d02443105b.png",
+    "_resources/0f88a03db13bfabc96343f5bf8bd3031.png",
+    "DevOps/AWS/AWS   K8.md",
+    "DevOps/AWS/AWS.md",
+    "DevOps/Ansible/Loops.md",
+    "DevOps/Ansible/Ansible Galaxy.md",
+    "DevOps/Ansible/Basics.md",
+    "Devs/AI/LLM Engineering/0. ToDo.md",
+    "Devs/AI/LLM Engineering/Tokenization",
     "piecesdb.json",
-    "handwritten-notes/New note.pdf",
-    "handwritten-notes",
-    "Tags",
-    "Pasted Image 20240828041955_730.jpg",
+    "Devs/AI/LLM Engineering/_resources/Pasted image 20250414011939.png",
+    "Devs/AI/LLM Engineering/_resources/Pasted image 20250414011339.png",
+    "Devs/AI/LLM Engineering/_resources",
+    "Devs/AI/LLM Engineering/Ollama/Deployment or installation locally.md",
+    "Devs/AI/LLM Engineering/Ollama/FAQ.md",
+    "Devs/AI/LLM Engineering/Ollama",
+    "Devs/AI/Data Science and Machine Learning/EDA/Feature Engineering.md",
+    "Devs/AI/LLM Engineering",
+    "Devs/AI",
+    "Misc/Virtual Cam",
+    "Devs/Python/0. Quick Notes/Functions",
     "Untitled.canvas",
-    "_resources/Pasted image 20250106182256.png",
-    "Excalidraw/Scripts/Downloaded/Fixed spacing.svg",
-    "Excalidraw/Scripts/Downloaded/Fixed inner distance.svg",
-    "_resources/Pasted image 20241107134250.png",
-    "_resources/Pasted image 20241107134135.png",
     "Testings/Untitled.canvas",
     "Untitled 1.canvas",
     "Testings/Untitled 1.canvas",

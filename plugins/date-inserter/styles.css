@@ -260,7 +260,7 @@
 }
 
 .modal.date-inserter-modal {
-  width: 300px;
+  width: 340px;
 }
 .modal.date-inserter-modal .datepicker-view {
   color: #000;
@@ -268,7 +268,9 @@
 .modal.date-inserter-modal .modal-content {
   height: 305px;
   display: flex;
-  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
 }
 .modal.date-inserter-modal .invisible-input {
   opacity: 0;
@@ -286,18 +288,44 @@
 .modal.date-inserter-modal .datepicker .datepicker-picker .datepicker-header {
   display: block;
 }
+.modal.date-inserter-modal .format-buttons {
+  width: 100%;
+}
+.modal.date-inserter-modal .format-buttons button {
+  width: 50%;
+  height: 2rem;
+  padding: 0 0.5rem;
+}
+.modal.date-inserter-modal .format-buttons button:first-child {
+  border-radius: 4px 0 0 4px;
+}
+.modal.date-inserter-modal .format-buttons button:last-child {
+  border-radius: 0 4px 4px 0;
+}
+.modal.date-inserter-modal .format-buttons button.selected {
+  background-color: hsl(171, 100%, 41%);
+  color: #fff;
+}
+.modal.date-inserter-modal .format-buttons button span {
+  text-overflow: ellipsis;
+  overflow: hidden;
+  white-space: nowrap;
+}
 
-.is-phone .modal.date-inserter-modal {
-  position: relative;
-  width: 320px;
-  height: 350px;
+.is-mobile .modal.date-inserter-modal .datepicker {
+  width: 303px;
 }
-.is-phone .modal.date-inserter-modal .modal-content {
-  position: initial;
-  flex-direction: initial;
+.is-mobile .modal.date-inserter-modal .datepicker .days .dow {
+  width: 42.75px;
+  height: 28.5px;
 }
+.is-mobile .modal.date-inserter-modal .datepicker .days .day {
+  width: 42.75px;
+  height: 42.75px;
+}
+
 .is-phone .modal.date-inserter-modal .datepicker {
-  top: 35px !important;
+  top: 0 !important;
 }
 
 .setting-date-format-description {
@@ -356,4 +384,7 @@ body.theme-dark .modal.date-inserter-modal .datepicker-cell.highlighted:not(.sel
 }
 body.theme-dark .modal.date-inserter-modal .datepicker-cell.today:not(.selected) {
   background-color: hsl(171, 100%, 30%) !important;
+}
+body.theme-dark .modal.date-inserter-modal .format-buttons button.selected {
+  background-color: hsl(171, 100%, 30%);
 }
